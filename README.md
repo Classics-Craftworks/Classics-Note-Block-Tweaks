@@ -13,7 +13,7 @@ Updates the textures of Note Blocks to better match Jukeboxes in Minecraft Java 
 
 Classic's Note Block Tweaks is only available on the platforms listed below. Please be aware that downloading it from any other source could result in an altered or potentially malicious version of the resource pack.
 
-[![](https://img.shields.io/modrinth/dt/MWOyVipY?label=Modrinth&style=for-the-badge&color=00AF5C&logo=modrinth)](https://modrinth.com/resourcepack/classics-note-block-tweaks)
+[![](https://img.shields.io/modrinth/dt/mf3bB7yt?label=Modrinth&style=for-the-badge&color=00AF5C&logo=modrinth)](https://modrinth.com/resourcepack/classics-note-block-tweaks)
 
 ## Overview
 
