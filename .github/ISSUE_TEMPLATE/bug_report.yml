@@ -36,7 +36,7 @@ body:
     attributes:
       label: Minecraft Version
       description: Which version of Minecraft are you using?
-      placeholder: Simply "26.4" or "26.4 Snapshot 4", for example, will do.
+      placeholder: Simply "26.3" or "26.4 Snapshot 4", for example, will do.
     validations:
       required: true
   - type: input

@@ -1,6 +1,6 @@
 # CLASSIC'S NOTE BLOCK TWEAKS
 
-Updates the textures of Note Blocks to better match Jukeboxes in Minecraft Java 26.4.
+Updates Note Blocks to better match new Jukebox textures, and backports them to 1.21.9 - 26.3.
 
 > [!TIP]
 > Looking for more small tweaks?
@@ -17,17 +17,25 @@ Classic's Note Block Tweaks is only available on the platforms listed below. Ple
 
 ## Overview
 
-This simple pack updates the textures of Note Blocks to match with the new Jukebox textures added in Java 26.4 Snapshot 4.
+This simple pack updates the textures of Note Blocks to match the new Jukebox textures, and backports them to Java 1.21.9 - 26.3.
 
-As the 26.4 game drop is still in development, Mojang may make this change themselves at some point. Because of this, the pack icon is currently a placeholder and will only be updated to match the quality of my other packs if the vanilla texture doesn't change.
+Java 26.4 Snapshot 4 updated the Jukebox's top and side textures and added a separate bottom texture. This pack brings those changes to older versions, so the Jukebox and Note Block stay visually consistent.
+
+* Note Blocks and Jukeboxes both use separate top, side and bottom textures
+* The Jukebox textures are the ones introduced in 26.4 Snapshot 4, including the new bottom texture
+* The new Note Block textures are based on the 26.4 Jukebox textures
+
+As the 26.4 game drop is still in development, Mojang may update the Note Block texture themselves at some point. Because of this, the pack icon is currently a placeholder and will only be updated to match the quality of my other packs if the vanilla texture doesn't change.
 
 ![image](https://i.postimg.cc/8csnHW42/noteblocktweaks.gif)
+
+(Comparison made in 26.4 Snapshot 4)
 
 ## Versions
 
 | Minecraft Version | Pack Version |
 | :--: | :--: |
-| 26.4-snapshot-4 | [v0.1.0](https://modrinth.com/resourcepack/classics-note-block-tweaks/version/v0.1.0) |
+| 1.21.9 - 26.4-snapshot-4 | [v0.2.0](https://modrinth.com/resourcepack/classics-note-block-tweaks/version/v0.2.0) |
 
 Older versions and snapshots can be found [on Modrinth](https://modrinth.com/datapack/classics-note-block-tweaks/versions) or [here on GitHub](https://github.com/Classics-Craftworks/Classics-Note-Block-Tweaks/wiki/Versions).
 
