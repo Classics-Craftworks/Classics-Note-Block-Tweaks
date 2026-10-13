@@ -19,9 +19,9 @@ Classic's Note Block Tweaks is only available on the platforms listed below. Ple
 
 This simple pack updates the textures of Note Blocks to match with the new Jukebox textures added in Java 26.4 Snapshot 4.
 
-As the 26.4 game drop is still in development, Mojang may make this change themselves at some point.
+As the 26.4 game drop is still in development, Mojang may make this change themselves at some point. Because of this, the pack icon is currently a placeholder and will only be updated to match the quality of my other packs if the vanilla texture doesn't change.
 
-![image](https://i.postimg.cc/tCMJd3Dz/Lantern-Gif-V2.gif)
+![image](https://i.postimg.cc/8csnHW42/noteblocktweaks.gif)
 
 ## Versions
 
