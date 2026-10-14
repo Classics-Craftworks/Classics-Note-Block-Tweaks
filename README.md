@@ -27,15 +27,13 @@ Java 26.4 Snapshot 4 updated the Jukebox's top and side textures and added a sep
 
 As the 26.4 game drop is still in development, Mojang may update the Note Block texture themselves at some point. Because of this, the pack icon is currently a placeholder and will only be updated to match the quality of my other packs if the vanilla texture doesn't change.
 
-![image](https://i.postimg.cc/8csnHW42/noteblocktweaks.gif)
-
-(Comparison made in 26.4 Snapshot 4)
+![image](https://i.postimg.cc/fbgQ55sC/CNT-Comparison-Chart0-3.png)
 
 ## Versions
 
 | Minecraft Version | Pack Version |
 | :--: | :--: |
-| 1.21.9 - 26.4-snapshot-4 | [v0.2.0](https://modrinth.com/resourcepack/classics-note-block-tweaks/version/v0.2.0) |
+| 1.21.9 - 26.4-snapshot-4 | [v0.3.0](https://modrinth.com/resourcepack/classics-note-block-tweaks/version/v0.3.0) |
 
 Older versions and snapshots can be found [on Modrinth](https://modrinth.com/datapack/classics-note-block-tweaks/versions) or [here on GitHub](https://github.com/Classics-Craftworks/Classics-Note-Block-Tweaks/wiki/Versions).
 

@@ -28,7 +28,7 @@ body:
       label: Version
       description: Which version of Classic's Note Block Tweaks are you using? If it's not listed, please consider updating!
       options:
-        - v0.1.0
+        - v0.3.0
     validations:
       required: true
   - type: input
