@@ -28,6 +28,7 @@ body:
       label: Version
       description: Which version of Classic's Note Block Tweaks are you using? If it's not listed, please consider updating!
       options:
+        - v0.5.0
         - v0.4.0
         - v0.3.0
     validations:
@@ -37,7 +38,7 @@ body:
     attributes:
       label: Minecraft Version
       description: Which version of Minecraft are you using?
-      placeholder: Simply "26.3" or "26.4 Snapshot 4", for example, will do.
+      placeholder: Simply "26.3" or "26.4 Snapshot 5", for example, will do.
     validations:
       required: true
   - type: input
