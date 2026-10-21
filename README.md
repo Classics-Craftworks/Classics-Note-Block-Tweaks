@@ -2,12 +2,9 @@
 
 Updates Note Blocks to better match new Jukebox textures, and backports them to 1.21.9 - 26.3.
 
-> [!TIP]
-> Looking for more small tweaks?
-> Try [Classic's Disc Tweaks](https://modrinth.com/resourcepack/classics-disc-tweaks) for subtly widened music discs,
-> check out [Classic's Dye Tweaks](https://modrinth.com/resourcepack/classics-dye-tweaks) for improved dye textures,
-> or take a look at [Classic's Lantern Tweaks](https://modrinth.com/resourcepack/classics-lantern-tweaks) for
-> better Soul and Copper Lantern textures!
+> [!WARNING]
+> Classic's Note Block Tweaks has been merged into [Classic's Tweaks](https://modrinth.com/resourcepack/classics-tweaks) - an all-in-one pack with toggleable options.
+> This standalone pack will continue to receive updates throughout the 26.4 development cycle, but will be archived after the v1.0.0 release.
 
 ## Downloads
 
