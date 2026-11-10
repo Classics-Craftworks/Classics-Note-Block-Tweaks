@@ -2,14 +2,14 @@
 	"pack": {
 		"min_format": 69,
 		"max_format": 100.0,
-		"description": "§cClassic's Note Block Tweaks\n§7v1.0.0-b1 §8/ §f1.21.9-26.4s6"
+		"description": "§cClassic's Note Block Tweaks\n§7v1.0.0-b3 §8/ §f1.21.9-26.4s8"
     },
     "overlays": {
         "entries": [
             {
                 "directory": "assets_26.4",
                 "min_format": 100.1,
-                "max_format": 102
+                "max_format": 103
             }
         ]
     }

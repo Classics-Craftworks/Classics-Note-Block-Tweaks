@@ -30,7 +30,7 @@ As the 26.4 game drop is still in development, Mojang may update the Note Block 
 
 | Minecraft Version | Pack Version |
 | :--: | :--: |
-| 1.21.9 - 26.4-snap-7 | [v1.0.0-beta.2](https://modrinth.com/resourcepack/classics-note-block-tweaks/version/v1.0.0-beta.2) |
+| 1.21.9 - 26.4-snap-8 | [v1.0.0-beta.3](https://modrinth.com/resourcepack/classics-note-block-tweaks/version/v1.0.0-beta.3) |
 
 Older versions and snapshots can be found [on Modrinth](https://modrinth.com/datapack/classics-note-block-tweaks/versions) or [here on GitHub](https://github.com/Classics-Craftworks/Classics-Note-Block-Tweaks/wiki/Versions).
 
